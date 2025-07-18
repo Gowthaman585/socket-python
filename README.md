@@ -1,4 +1,4 @@
-#The server-client socket program is very much basic socket program and deals with only localhost(within same network)
+#The server-client socket program is a socket program and deals with only localhost(within same network)
 
 #The chatserver & chatclient is more over an TCP-chatroom works with different network when ip of server is known.
 
